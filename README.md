@@ -1,2 +1,3 @@
 # micro
-My micro projects
+My micro projects.
+See READMEs inside project directories.
